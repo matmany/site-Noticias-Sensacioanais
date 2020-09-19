@@ -1,0 +1,40 @@
+nav{
+    background-color: #063CFF !important;
+}
+
+div{
+    border: 2px red solid;
+}
+
+#test{
+    background-color: #063CFF;
+    z-index: -10;
+    position: absolute !important;
+    background-color: #063CFF;
+    height: 100px !important;
+    width: 100% !important;
+}
+
+.principal{
+    height: 500px;
+    text-align: center;
+    background-image: url("https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.2981285:1598385237/mess.jpg?f=default&$p$f=73a24d3") !important;
+    background-position: top;
+    background-size: cover;
+}
+
+.news-table{
+    max-width: 770px;
+}
+
+.principal img{
+    max-width: -webkit-fill-available;
+}
+
+#list-items{
+    height: 500px;;
+}
+
+.side{
+    height: 500px;
+}
